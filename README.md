@@ -4,7 +4,7 @@ This is a mini-project to test my knowledge of the C programming language.
 
 It is an online banking program that works on the command line. It covers peculiar concepts and built-in functions of the C programming langauges.
 
-This program includes features:
+This program features includes:
 
 * REGISTRATION
 * FUND DEPOSIT
